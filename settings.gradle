@@ -1,1 +1,1 @@
-include ':app'
+include ':01_observer1', ':02_observer2'
