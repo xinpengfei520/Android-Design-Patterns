@@ -14,7 +14,7 @@
 
 ### 1.3 UML图
 
-![image](https://github.com/xinpengfei520/Android-Design-Patterns/images/observer1.png)
+![image](https://github.com/xinpengfei520/Android-Design-Patterns/blob/master/images/observer1.png)
 
 ### 1.4 优点
 
