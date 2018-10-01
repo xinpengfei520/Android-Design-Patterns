@@ -82,3 +82,7 @@ Composite：定义有子部件的那些部件的行为，同时存储子部件�
 	2.View及ViewGroup的设计。
 
 // TODO
+
+## MORE:
+
+[https://github.com/dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
