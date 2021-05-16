@@ -1,1 +1,2 @@
 include ':01_observer1', ':02_observer2', ':03_combine'
+include ':04_factorymethod'
